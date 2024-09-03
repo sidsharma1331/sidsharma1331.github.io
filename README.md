@@ -1,5 +1,13 @@
-# Siddhant Sharma
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## 💫 About Me:
-Welcome to my Portfolio site! I am a dedicated and results-oriented Data Engineer with a strong foundation in data science and software engineering. Throughout my corporate journey, I have specialized in designing, building, and optimizing data pipelines that support robust analytics and business intelligence solutions. My experience spans across managing large-scale data infrastructures, ensuring data integrity, and implementing automation processes that streamline data flow and improve overall system efficiency. I thrive on solving complex data challenges and am passionate about enabling organizations to leverage their data assets for strategic decision-making.<br><br>In addition to my technical expertise, I am driven by a continuous learning mindset and a passion for innovation. I enjoy collaborating with cross-functional teams to develop solutions that not only meet current business needs but also anticipate future challenges. Outside of work, I love watching adventurous movies and am an avid sprinter, proud of my 100m record of 12 seconds.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
